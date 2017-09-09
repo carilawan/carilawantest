@@ -1293,7 +1293,7 @@ h1.intro-header::before {
 
 #header-nav-wrap .header-main-nav li a,
 #header-nav-wrap .header-main-nav li a:visited {
-  color: rgba(255, 255, 255, 0.45);
+  color: #ffffff;
 }
 
 #header-nav-wrap .header-main-nav li a:hover,
@@ -1340,7 +1340,7 @@ h1.intro-header::before {
     width: 100%;
     right: auto;
     left: 0;
-    background-color: #111111;
+    background-color: #1ABC9C;
     padding: 120px 40px 54px;
   }
   #header-nav-wrap .header-main-nav {
